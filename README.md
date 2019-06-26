@@ -1,5 +1,6 @@
 # CSYE 6225 - Spring 2019
 
+![alt text](https://github.com/shaan06/CSYE--Spring-2019/infrastructure_.jpeg)
 ## Team Information
 
 | Name | NEU ID | Email Address |
