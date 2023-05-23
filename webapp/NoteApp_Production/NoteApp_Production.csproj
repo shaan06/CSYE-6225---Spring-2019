@@ -14,7 +14,7 @@
         <PackageReference Include="JustEat.Statsd" Version="4.0.0" />
         <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
         <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="2.2.0" />
-        <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
         <PackageReference Include="NStatsD.Client" Version="1.5.11.0" />
         <PackageReference Include="Serilog.Extensions.Logging.File" Version="1.1.0" />
         <PackageReference Include="StatsdClient.Core" Version="0.0.2-beta" />
