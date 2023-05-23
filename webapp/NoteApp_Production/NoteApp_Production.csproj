@@ -25,7 +25,7 @@
         <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.0" />
         <PackageReference Include="Microsoft.EntityFrameworkcore" Version="2.2.0" />
         <PackageReference Include="Microsoft.EntityFrameworkcore.Tools" Version="2.2.0" />
-        <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.0-preview1-final" />
+        <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.6" />
         <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.2.0" />
     </ItemGroup>
     <ItemGroup>
