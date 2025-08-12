@@ -22,7 +22,7 @@
         <PackageReference Include="StatsN" Version="1.2.1" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.0" />
+        <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
         <PackageReference Include="Microsoft.EntityFrameworkcore" Version="2.2.0" />
         <PackageReference Include="Microsoft.EntityFrameworkcore.Tools" Version="2.2.0" />
         <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.2.0-preview1-final" />
